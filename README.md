@@ -47,6 +47,7 @@
    .venv\Scripts\activate
     pip install -r requirements.txt
 2. Запуск проєкта
+```bash
    python Final.py
 
 
